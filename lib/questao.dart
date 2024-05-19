@@ -7,7 +7,7 @@ class Questao extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    double fontSize2 = 28;
+    double fontSize2 = 26;
     return Container(
       width: double.infinity,
       margin: const EdgeInsets.all(10.0),
